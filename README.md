@@ -4,7 +4,7 @@ This code is a simple API that serves an ML model using FastAPI. It is intended 
 
 ### Sample
 Here's a sample of what you can expect to see with this project:
-<img width=600 src=".notebooks/img/sample_fastapi.gif" alt="sample">
+<img width=600 src="./notebooks/img/sample_fastapi.gif" alt="sample">
 
 
 # Getting Started
